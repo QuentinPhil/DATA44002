@@ -62,5 +62,6 @@ The table below shows an example confusion matrix (you'll see this term later) f
 
 *Every report must list the references that you consulted while completing the assignment. If you consulted a webpage, you must include the URL.*
 
-* Insert Reference 1, <https://www.example.com>
-* Insert Reference 2, <https://www.example.com/reallyreallyreally-extra-long-URI/>
+* StackOverflow on adding images to markdown <https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github>
+* Anwala Github Page with Assignment info <https://github.com/anwala/teaching-web-science/blob/main/fall-2023/homework/hw0/part_1.md>
+* Oracle of Bacon <https://oracleofbacon.org/>
