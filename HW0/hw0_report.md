@@ -44,7 +44,7 @@ The table below shows an example confusion matrix (you'll see this term later) f
 
 ## Discussion
 
-*You must provide some discussion of every answer. Discuss how you arrived at the answer and the tools you used. Discuss the implications of your answer.*
+
 
 # Q2
 
