@@ -11,7 +11,7 @@
 
 The picture below shows me in my makeshift cap and gown at high school graduation.
 
-![pic](https://github.com/QuentinPhil/DATA44002/blob/HW0/IMG_03861.jpg?raw=true)
+![pic](https://github.com/QuentinPhil/DATA44002/blob/main/HW0/IMG_03861.png?raw=true)
 
 *If you want to include code in your report, you can insert a screenshot (if it's legible), or you can copy/paste the code into a fenced code block.*
 
