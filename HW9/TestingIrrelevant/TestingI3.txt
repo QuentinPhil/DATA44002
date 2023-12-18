@@ -1,0 +1,24 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in DATA 440-02 on Piazza:
+
+Program quitting after logging in 12/6/2023, 2:55:39 PM
+
+My program quits right after logging in and scrolling for a few seconds. I thought it might be because of the code I added to make it sleep, so I re-downloaded the generate_twitter_vectoy.py file and just added my code for popular list. I had previously been able to run my program like that, but that did not work either. The only other difference is that I added a few lines of code to make it sleep for 5 minutes after 9 accounts after the for (word, count) in wc.items() loop. 
+
+get_auth_twitter_pg()
+
+--- Unsafe login ---
+
+retrieved username from ./unsafe_twitter_username.txt
+
+retrieved password from ./unsafe_twitter_password.txt
+
+try_to_login()
+
+waiting for login, sleeping for 3 seconds
+
+authenticated
+
+sleeping for 3 seconds
+

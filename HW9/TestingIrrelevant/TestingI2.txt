@@ -1,0 +1,58 @@
+Hi Quentin,
+
+Welcome to the December edit of your Early Career Kick Start. Each month, we’re bringing you a mix of things designed to help you build your skills, stay up to date on the latest tech trends, and set you up for a successful career wherever that may be.
+
+ 
+
+In this edition, we’re highlighting: why you should entertain a Mainframe career, the results of a phishing battle between humans and AI, our IBM Apprentices’ experiences and an introductory course on quantum-safe cryptography.
+
+ 
+Fresh Perspective
+
+
+The IBM Z mainframe has a history dating back for decades and you might think that means it's "old technology". In this video, new IBMer, Christina, shares why she's started her career as a mainframe developer, and why others should consider doing the same.
+
+Watch the video
+ 
+Around the World
+
+
+Imagine a scenario where AI squares off against humans in a battle of phishing. Who do you think will win? Read on to learn more about the future of phishing and what this means for social engineering attacks today and tomorrow.
+
+Read on to find out
+ 
+Spotlight Story
+
+
+Meet Brianne, Narciso, Juliani, and Kelsey – some of our amazing IBM Apprentices! They are happy to share some insights into their experiences.
+
+Read their stories
+ 
+Your Free Monthly Brain Booster
+
+Every month we’re highlighting one piece of learning to support you in growing your skills. 
+
+ 
+
+This month’s knowledge boost: Practical introduction to quantum-safe cryptography
+
+ 
+
+“Why should I care about this?”
+
+ 
+
+Future-proof your skill set against evolving threats posed by quantum computing with this course featuring multimodal lessons and interactive live code examples in four core areas of cryptography: cryptographic hash functions, symmetric key cryptography, asymmetric key cryptography, and quantum-safe cryptography.
+
+Start learning now!
+ 
+Keep Your Profile Updated
+
+To make sure we’re sending this email to the correct audience, please ensure your profile is up to date in our database by filling out the Talent Network Form using the email you signed up with. The new fields you enter will replace your previous profile.
+
+ 
+Keep in Touch!
+
+As always, if you need any assistance, drop us a message via social media in the links below.
+
+The IBM Talent Acquisition Team

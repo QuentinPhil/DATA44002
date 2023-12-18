@@ -1,0 +1,9 @@
+Hi Class,
+
+For problem set 2, you are to engage with ChatGPT on the topics of Linguistics. By engage, I mean prompt GPT to write an essay and critically analyze its results. Ask it addition questions about its answers. Does it know people in the fields? Can it accurately link sources? Can it solve EDA types of coding questions given a NLP dataset.
+
+Here is a description of the problem set: https://github.com/JamesMTucker/DATA_340_NLP/blob/master/Spring_2023/assignment_descriptions/02_ChatGPT.md
+
+Please submit the exchange you had with ChatGPT on December 23rd! You can submit in either PDF or Markdown.
+
+Sincerely,
