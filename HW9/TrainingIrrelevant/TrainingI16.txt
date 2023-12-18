@@ -1,0 +1,13 @@
+Your classmate posted a new Question.
+
+Adjusting Axis Labels in Plotly
+
+Hello,
+
+I am wondering if there is a way to rotate/adjust the size of x-axis labels in Plotly, specifically Parallel Coordinate Plots. The labels are currently overlapped, as seen below, and I would like to adjust them so they are not so. I have written the code for this plot based off what we completed in the Describing Data Assignment. Thank you in advance!
+
+image.pngNaN
+
+
+
+Click here to view. Search or link to this question with @203. Follow it to get notified when a response comes in.

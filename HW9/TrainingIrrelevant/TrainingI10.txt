@@ -1,0 +1,13 @@
+Your submission was successful!
+
+You can save or print this confirmation for your records. You can also view your receipts on your My Grades page.
+
+Submission details:
+Confirmation number: 792711cc47aa4d1ca1f9a9cb06bd2780
+Course: Data Visualization (Fall 2023)
+Course ID: DATA303-02-F23
+Title: Final Project
+Submission date: Dec 13, 2023 11:19 AM
+Size of written submission: 0 bytes
+Size and name of files received: Reflections DATA340 Final.pdf (28 kb) Data340FinalExam (1).ipynb (138.1 kb)
+Unique Item ID (for administrator use only): _1453644_1

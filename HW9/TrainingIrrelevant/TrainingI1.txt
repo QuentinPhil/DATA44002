@@ -1,0 +1,10 @@
+Your classmate posted a new Question.
+
+Confusion Matrix Format
+
+What is the proper format of a confusion matrix? 
+
+For example Slide 45 in Module 13 shows the format below on the left but the slide also uses Wiki as a reference which has a different format.  See below on the right.
+For what it is worth sklearn's confusion_matrix() function will produce the one on the right. 
+
+If you label all the rows and columns it may not matter
